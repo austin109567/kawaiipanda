@@ -14,9 +14,9 @@ export const LAYERS: Layer[] = [
     id: 1,
     name: 'Background',
     traits: [
-      { id: 101, name: 'Byzantium Purple', image: 'src/assets/layers/Background/Byzantium_Purple.png' },
-      { id: 102, name: 'Cream', image: 'src/assets/layers/Background/Cream.png' },
-      { id: 103, name: 'Ruddy Blue', image: 'src/assets/layers/Background/Ruddy_Blue.png' }
+      { id: 101, name: 'Byzantium Purple', image: 'assets/layers/Background/Byzantium_Purple.png' },
+      { id: 102, name: 'Cream', image: 'assets/layers/Background/Cream.png' },
+      { id: 103, name: 'Ruddy Blue', image: 'assets/layers/Background/Ruddy_Blue.png' }
     ]
   }, {
     id: 2,
