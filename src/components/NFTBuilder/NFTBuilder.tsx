@@ -146,13 +146,13 @@ export const NFTBuilder: FC = () => {
       <div className="text-center">
         <h1 className="text-4xl font-title text-text-light-primary dark:text-white mb-2 flex items-center justify-center gap-3">
         <img 
-            src="/src/assets/pandas/happypanda.PNG" 
+            src="public\assets\pandas\happypanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
           NFT Builder
           <img 
-            src="/src/assets/pandas/happypandaflip.PNG" 
+            src="public\assets\pandas\happypandaflip.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
