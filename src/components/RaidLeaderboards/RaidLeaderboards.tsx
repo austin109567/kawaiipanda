@@ -32,13 +32,13 @@ export const RaidLeaderboards: FC = () => {
       <div className="text-center">
         <h1 className="text-4xl font-title text-text-light-primary dark:text-white mb-2 flex items-center justify-center gap-3">
         <img 
-            src="/src/assets/pandas/tiltedpanda.PNG" 
+            src="/assets/pandas/tiltedpanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
           Leaderboards
           <img 
-            src="/src/assets/pandas/tiltedpandaflip.PNG" 
+            src="/assets/pandas/tiltedpandaflip.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />

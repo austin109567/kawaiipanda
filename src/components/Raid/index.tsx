@@ -23,13 +23,13 @@ export const Raid: FC = () => {
       <div className="text-center">
         <h1 className="text-4xl font-title text-text-light-primary dark:text-white mb-2 flex items-center justify-center gap-3">
         <img 
-            src="/src/assets/pandas/raidpanda.PNG" 
+            src="/assets/pandas/raidpanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
           Raid Arena
           <img 
-            src="/src/assets/pandas/raidpandaflip.PNG" 
+            src="/assets/pandas/raidpandaflip.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />

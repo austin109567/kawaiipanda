@@ -101,13 +101,13 @@ export const RaidProfile: FC = () => {
       <div className="text-center">
         <h1 className="text-4xl font-title text-text-light-primary dark:text-white mb-2 flex items-center justify-center gap-3">
           <img 
-            src="/src/assets/pandas/runningpandaflip.PNG" 
+            src="/assets/pandas/runningpandaflip.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
           Raid Profile
           <img 
-            src="/src/assets/pandas/runningpanda.PNG" 
+            src="/assets/pandas/runningpanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
