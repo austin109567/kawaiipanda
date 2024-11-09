@@ -134,7 +134,7 @@ export const HomePage: FC = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12 p-8">
           <div className="lg:w-1/2">
             <img 
-              src="src/assets/pandas/happypanda.PNG"
+              src="assets/pandas/happypanda.PNG"
               alt="NFT Builder"
               className="rounded-xl shadow-glow transform hover:scale-105 transition-all duration-500"
             />
