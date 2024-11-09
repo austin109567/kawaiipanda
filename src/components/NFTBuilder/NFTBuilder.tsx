@@ -22,46 +22,46 @@ export const LAYERS: Layer[] = [
     id: 2,
     name: 'Skin',
     traits: [
-      { id: 201, name: 'Tree', image: 'src/assets/layers/Skin/Tree.png' },
-      { id: 202, name: 'Cybersuit', image: 'src/assets/layers/Skin/Cybersuit.png' },
-      { id: 203, name: 'Dreamland', image: 'src/assets/layers/Skin/Dreamland.png' }
+      { id: 201, name: 'Tree', image: 'public\assets\layers\Skin\Tree.png' },
+      { id: 202, name: 'Cybersuit', image: 'public\assets\layers\Skin\Cybersuit.png' },
+      { id: 203, name: 'Dreamland', image: 'public\assets\layers\Skin\Dreamland.png' }
     ]
   }, {
     id: 3,
     name: 'Eyes',
     traits: [
-      { id: 301, name: 'Gaze', image: 'src/assets/layers/Eyes/Gaze.png' },
-      { id: 302, name: 'Nano', image: 'src/assets/layers/Eyes/Nano.png' },
-      { id: 303, name: 'Bloodshot', image: 'src/assets/layers/Eyes/Bloodshot.png' }
+      { id: 301, name: 'Gaze', image: 'public\assets\layers\Eyes\Gaze.png' },
+      { id: 302, name: 'Nano', image: 'public\assets\layers\Eyes\Nano.png' },
+      { id: 303, name: 'Bloodshot', image: 'public\assets\layers\Eyes\Bloodshot.png' }
     ]
   }, {
     id: 4,
     name: 'Mouth',
     traits: [
-      { id: 401, name: 'Red', image: 'src/assets/layers/Mouth/Red.png' },
-      { id: 402, name: 'Bone', image: 'src/assets/layers/Mouth/Bone.png' },
-      { id: 403, name: 'Chick', image: 'src/assets/layers/Mouth/Chick.png' },
-      { id: 404, name: 'Scruff', image: 'src/assets/layers/Mouth/Scruff.png' },
-      { id: 405, name: 'Gold Cheese', image: 'src/assets/layers/Mouth/Gold_Cheese.png' }
+      { id: 401, name: 'Red', image: 'public\assets\layers\Mouth\Red.png' },
+      { id: 402, name: 'Bone', image: 'public\assets\layers\Mouth\Bone.png' },
+      { id: 403, name: 'Chick', image: 'public\assets\layers\Mouth\Chick.png' },
+      { id: 404, name: 'Scruff', image: 'public\assets\layers\Mouth\Scruff.png' },
+      { id: 405, name: 'Gold Cheese', image: 'public\assets\layers\Mouth\Gold_Cheese.png' }
     ]
   }, {
     id: 5,
     name: 'Outfit',
     traits: [
-      { id: 501, name: 'Birfday', image: 'src/assets/layers/Outfit/Birfday.png' },
-      { id: 502, name: 'Colonial', image: 'src/assets/layers/Outfit/Colonial.png' },
-      { id: 503, name: 'Bear Suit', image: 'src/assets/layers/Outfit/Bear_Suit.png' },
-      { id: 504, name: 'Blue Jacket', image: 'src/assets/layers/Outfit/Blue_Jacket.png' }
+      { id: 501, name: 'Birfday', image: 'public\assets\layers\Outfit\Birfday.png' },
+      { id: 502, name: 'Colonial', image: 'public\assets\layers\Outfit\Colonial.png' },
+      { id: 503, name: 'Bear Suit', image: 'public\assets\layers\Outfit\Bear_Suit.png' },
+      { id: 504, name: 'Blue Jacket', image: 'public\assets\layers\Outfit\Blue_Jacket.png' }
     ]
   }, {
     id: 6,
     name: 'Hat',
     traits: [
-      { id: 601, name: 'None', image: 'src/assets/layers/Hat/None.png' },
-      { id: 602, name: 'Crown', image: 'src/assets/layers/Hat/Crown.png' },
-      { id: 603, name: 'Troll', image: 'src/assets/layers/Hat/Troll.png' },
-      { id: 605, name: 'Skull Cap', image: 'src/assets/layers/Hat/Skull_Cap.png' },
-      { id: 606, name: 'Forest Ancients', image: 'src/assets/layers/Hat/Forest_Ancients.png' }
+      { id: 601, name: 'None', image: 'public\assets\layers\Hat\None.png' },
+      { id: 602, name: 'Crown', image: 'public\assets\layers\Hat\Crown.png' },
+      { id: 603, name: 'Troll', image: 'public\assets\layers\Hat\Troll.png' },
+      { id: 605, name: 'Skull Cap', image: 'public\assets\layers\Hat\Skull_Cap.png' },
+      { id: 606, name: 'Forest Ancients', image: 'public\assets\layers\Hat\Forest_Ancients.png' }
     ]
   }
 ];
