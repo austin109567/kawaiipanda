@@ -18,7 +18,7 @@ export const Info: FC = () => {
             </div>
             <div className="lg:w-1/2">
               <img 
-                src="src/assets/pandas/sittingpanda.PNG"
+                src="/assets/pandas/sittingpanda.PNG"
                 alt="Gaming Platform"
                 className="rounded-xl shadow-glow"
               />
@@ -150,7 +150,7 @@ export const Info: FC = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2">
             <img 
-              src="src/assets/pandas/lookingpanda.PNG"
+              src="/assets/pandas/lookingpanda.PNG"
               alt="How It Works"
               className="rounded-xl shadow-glow"
             />
