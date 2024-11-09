@@ -29,7 +29,7 @@ export const Raid: FC = () => {
           />
           Raid Arena
           <img 
-            src="/assets/pandas/raidpandaflip.PNG" 
+            src="/assets/pandas/raidpanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />

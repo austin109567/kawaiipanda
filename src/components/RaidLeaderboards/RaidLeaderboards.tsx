@@ -38,7 +38,7 @@ export const RaidLeaderboards: FC = () => {
           />
           Leaderboards
           <img 
-            src="/assets/pandas/tiltedpandaflip.PNG" 
+            src="/assets/pandas/tiltedpanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
