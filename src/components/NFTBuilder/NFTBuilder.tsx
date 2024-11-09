@@ -22,46 +22,46 @@ export const LAYERS: Layer[] = [
     id: 2,
     name: 'Skin',
     traits: [
-      { id: 201, name: 'Tree', image: '\assets\layers\Skin\Tree.png' },
-      { id: 202, name: 'Cybersuit', image: '\assets\layers\Skin\Cybersuit.png' },
-      { id: 203, name: 'Dreamland', image: '\assets\layers\Skin\Dreamland.png' }
+      { id: 201, name: 'Tree', image: '/assets/layers/Skin/Tree.png' },
+      { id: 202, name: 'Cybersuit', image: '/assets/layers/Skin/Cybersuit.png' },
+      { id: 203, name: 'Dreamland', image: '/assets/layers/Skin/Dreamland.png' }
     ]
   }, {
     id: 3,
     name: 'Eyes',
     traits: [
-      { id: 301, name: 'Gaze', image: '\assets\layers\Eyes\Gaze.png' },
-      { id: 302, name: 'Nano', image: '\assets\layers\Eyes\Nano.png' },
-      { id: 303, name: 'Bloodshot', image: '\assets\layers\Eyes\Bloodshot.png' }
+      { id: 301, name: 'Gaze', image: '/assets/layers/Eyes/Gaze.png' },
+      { id: 302, name: 'Nano', image: '/assets/layers/Eyes/Nano.png' },
+      { id: 303, name: 'Bloodshot', image: '/assets/layers/Eyes/Bloodshot.png' }
     ]
   }, {
     id: 4,
     name: 'Mouth',
     traits: [
-      { id: 401, name: 'Red', image: '\assets\layers\Mouth\Red.png' },
-      { id: 402, name: 'Bone', image: '\assets\layers\Mouth\Bone.png' },
-      { id: 403, name: 'Chick', image: '\assets\layers\Mouth\Chick.png' },
-      { id: 404, name: 'Scruff', image: '\assets\layers\Mouth\Scruff.png' },
-      { id: 405, name: 'Gold Cheese', image: '\assets\layers\Mouth\Gold_Cheese.png' }
+      { id: 401, name: 'Red', image: '/assets/layers/Mouth/Red.png' },
+      { id: 402, name: 'Bone', image: '/assets/layers/Mouth/Bone.png' },
+      { id: 403, name: 'Chick', image: '/assets/layers/Mouth/Chick.png' },
+      { id: 404, name: 'Scruff', image: '/assets/layers/Mouth/Scruff.png' },
+      { id: 405, name: 'Gold Cheese', image: '/assets/layers/Mouth/Gold_Cheese.png' }
     ]
   }, {
     id: 5,
     name: 'Outfit',
     traits: [
-      { id: 501, name: 'Birfday', image: '\assets\layers\Outfit\Birfday.png' },
-      { id: 502, name: 'Colonial', image: '\assets\layers\Outfit\Colonial.png' },
-      { id: 503, name: 'Bear Suit', image: '\assets\layers\Outfit\Bear_Suit.png' },
-      { id: 504, name: 'Blue Jacket', image: '\assets\layers\Outfit\Blue_Jacket.png' }
+      { id: 501, name: 'Birfday', image: '/assets/layers/Outfit/Birfday.png' },
+      { id: 502, name: 'Colonial', image: '/assets/layers/Outfit/Colonial.png' },
+      { id: 503, name: 'Bear Suit', image: '/assets/layers/Outfit/Bear_Suit.png' },
+      { id: 504, name: 'Blue Jacket', image: '/assets/layers/Outfit/Blue_Jacket.png' }
     ]
   }, {
     id: 6,
     name: 'Hat',
     traits: [
-      { id: 601, name: 'None', image: '\assets\layers\Hat\None.png' },
-      { id: 602, name: 'Crown', image: '\assets\layers\Hat\Crown.png' },
-      { id: 603, name: 'Troll', image: '\assets\layers\Hat\Troll.png' },
-      { id: 605, name: 'Skull Cap', image: '\assets\layers\Hat\Skull_Cap.png' },
-      { id: 606, name: 'Forest Ancients', image: '\assets\layers\Hat\Forest_Ancients.png' }
+      { id: 601, name: 'None', image: '/assets/layers/Hat/None.png' },
+      { id: 602, name: 'Crown', image: '/assets/layers/Hat/Crown.png' },
+      { id: 603, name: 'Troll', image: '/assets/layers/Hat/Troll.png' },
+      { id: 605, name: 'Skull Cap', image: '/assets/layers/Hat/Skull_Cap.png' },
+      { id: 606, name: 'Forest Ancients', image: '/assets/layers/Hat/Forest_Ancients.png' }
     ]
   }
 ];
@@ -146,13 +146,13 @@ export const NFTBuilder: FC = () => {
       <div className="text-center">
         <h1 className="text-4xl font-title text-text-light-primary dark:text-white mb-2 flex items-center justify-center gap-3">
         <img 
-            src="\assets\pandas\happypanda.PNG" 
+            src="/assets/pandas/happypanda.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
           NFT Builder
           <img 
-            src="\assets\pandas\happypandaflip.PNG" 
+            src="/assets/pandas/happypandaflip.PNG" 
             alt="Raid Panda"
             className="w-12 h-12 object-contain"
           />
