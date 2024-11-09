@@ -152,7 +152,7 @@ export const NFTBuilder: FC = () => {
           />
           NFT Builder
           <img 
-            src="/assets/pandas/happypandaflip.PNG" 
+            src="/assets/pandas/happypanda.PNG" 
             alt="Raid Panda2"
             className="w-12 h-12 object-contain"
           />
